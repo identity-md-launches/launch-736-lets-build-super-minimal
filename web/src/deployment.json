@@ -1,0 +1,10 @@
+{
+  "chainId": 1,
+  "address": "0x7c4dd52baa8352ba2d673739da456698e715451b",
+  "job": "https://explorer.imd.fun/jobs/b2246df4-9856-41c0-b573-e6f0b67f5897#deployed",
+  "source": "https://github.com/identity-md-launches/launch-734-counter-minimal-counter-contract/blob/9665e84d83282eaf0d121587d784bae233c6a177/src/Counter.sol",
+  "checkedAt": "2026-10-05",
+  "note": "Published Counter deployment; exact runtime matched against pinned source on Ethereum mainnet.",
+  "deploymentTransaction": "0x51246a8812ba4876859a43367e6e5992e436cef87c46ed3c1c5c10715a84109a",
+  "deploymentBlock": 26129110
+}
